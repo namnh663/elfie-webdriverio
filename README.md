@@ -57,8 +57,8 @@ The project structure is organized as follows:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
-   cd mobile-automation-webdriverio
+   git clone https://github.com/namnh663/elfie-webdriverio.git
+   cd elfie-webdriverio
    ```
 
 2. Install the project dependencies:
