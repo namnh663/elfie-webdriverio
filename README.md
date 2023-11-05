@@ -50,7 +50,6 @@ The project structure is organized as follows:
 - `test/`: Contains test scripts organized using the Page Object Model (POM) structure.
 - `data/`: Contains data files for data-driven testing.
 - `allure-report/`: Allure report files will be generated in this directory.
-- `app/`: You should place the Chrome APK file you want to install in this directory.
 
 ## Installation
 
