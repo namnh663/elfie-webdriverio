@@ -1,6 +1,6 @@
 # Mobile Automation with WebdriverIO
 
-This repository contains the code base for mobile automation using WebdriverIO. The project follows the Page Object Model (POM) structure, Test-Driven Development (TDD) coding style, supports data-driven testing, and implements Allure reporting.
+This repository contains the code base for mobile automation using WebdriverIO. The project follows the Page Object Model (POM) structure, supports data-driven testing, and implements Allure reporting.
 
 ## Prerequisites
 
